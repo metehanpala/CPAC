@@ -1,5 +1,5 @@
-# CPAC Project
-## CPAC final project 
+# Music Theory Arcade
+## CPAC Project
 
 # Game APP for educational purpose challenging your knowledge about Scale Harmony Chords and Scales 
 
